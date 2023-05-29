@@ -16,10 +16,10 @@
 所以我的目的, 就是想可以借着这个实战项目持续输出一些技术/代码能力, 以此加深/巩固自己对这些技术/代码能力的认识
 ```
 
-### 谷粒商城-代码生成器(renren-generator)： [https://github.com/behappy-hospital/behappy-hospital/tree/springboot2](https://github.com/behappy-gulimall/behappy-gulimall-generator)
+### 谷粒商城-代码生成器(renren-generator)： https://github.com/behappy-gulimall/behappy-gulimall-generator
 
-### 谷粒商城-后台管理-前端(renren-fast-vue)： [https://github.com/behappy-hospital/behappy-hospital](https://github.com/behappy-gulimall/behappy-gulimall-vue)
+### 谷粒商城-后台管理-前端(renren-fast-vue)： https://github.com/behappy-gulimall/behappy-gulimall-vue
 
-### 谷粒商城-后台管理(renren-fast)： [https://github.com/behappy-hospital/behappy-hospital](https://github.com/behappy-gulimall/behappy-gulimall-fast)
+### 谷粒商城-后台管理(renren-fast)： https://github.com/behappy-gulimall/behappy-gulimall-fast
 
-### 谷粒商城SpringBoot3.x： [https://github.com/behappy-hospital/behappy-hospital](https://github.com/behappy-gulimall/behappy-gulimall)
+### 谷粒商城SpringBoot3.x： https://github.com/behappy-gulimall/behappy-gulimall
