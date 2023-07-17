@@ -22,6 +22,8 @@
 
 ### 谷粒商城-后台管理-后端(renren-fast)： https://github.com/behappy-gulimall/behappy-gulimall-fast
 
-### 谷粒商城-Nginx(用于本地开发的静态资源代理以及服务反代)： https://github.com/behappy-gulimall/behappy-gulimall-nginx
+### 谷粒商城-Nginx(静态资源代理以及服务反代)-Docker版本： https://github.com/behappy-gulimall/behappy-gulimall-nginx
+
+### 谷粒商城-Nginx(静态资源代理以及服务反代)-Windows版本： https://github.com/behappy-gulimall/behappy-gulimall-nginx-windows
 
 ### 谷粒商城SpringBoot3.x： https://github.com/behappy-gulimall/behappy-gulimall
