@@ -28,4 +28,4 @@
 
 ### 谷粒商城-Nginx(静态资源代理以及服务反代)-Windows版本： https://github.com/behappy-gulimall/behappy-gulimall-nginx-windows
 
-### 谷粒商城SpringBoot3.x： https://github.com/behappy-gulimall/behappy-gulimall
+### 谷粒商城SpringBoot3.x(主项目)： https://github.com/behappy-gulimall/behappy-gulimall
