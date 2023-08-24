@@ -29,3 +29,8 @@
 ### 谷粒商城-Nginx(静态资源代理以及服务反代)-Windows版本： https://github.com/behappy-gulimall/behappy-gulimall-nginx-windows
 
 ### 谷粒商城SpringBoot3.x(主项目)： https://github.com/behappy-gulimall/behappy-gulimall
+
+### 重定向： https://github.com/behappy-project/behappy-redirect
+> 如果使用谷粒学院的微信账户，默认回调是`locahost:8160/callback`
+>
+> 这种情况可以下载exe程序到本地，执行`behappy-redirect.exe --server.port=8160 --redirect-url=http://auth.gulimall.com/api/ucenter/wx/recallback`
